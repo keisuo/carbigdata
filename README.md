@@ -17,3 +17,7 @@
 汽车大数据估价类产品有没有发展前景？:https://www.zhihu.com/question/39853873
 
 实战大数据：https://books.google.com/books?id=qOrEDgAAQBAJ&pg=PA265&lpg=PA265&dq=%E6%B1%BD%E8%BD%A6%E5%A4%A7%E6%95%B0%E6%8D%AE&source=bl&ots=ooX9SAVJ95&sig=aAxtjUiGdOUhlQRvHHSIl0RLwQU&hl=zh-CN&sa=X&ved=0ahUKEwj-v7L25PfZAhURRKwKHS2KCMI4KBDoAQhcMAk#v=onepage&q=%E6%B1%BD%E8%BD%A6%E5%A4%A7%E6%95%B0%E6%8D%AE&f=false
+
+
+实践：
+Python 汽车 数据分析
