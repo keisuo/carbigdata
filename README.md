@@ -25,12 +25,13 @@ https://books.google.com/books?id=qOrEDgAAQBAJ&pg=PA265&lpg=PA265&dq=%E6%B1%BD%E
 
 obd 数据可以做怎么样的数据挖掘？ ： https://www.zhihu.com/question/20535699
 
-舆情产品如何设计才能走向大众，试试从舆情识别、舆情分析、舆情预警、舆情应对等方面来阐述？：https://www.zhihu.com/question/20421639/answer/236677189
+舆情产品如何设计才能走向大众，试试从舆情识别、舆情分析、舆情预警、舆情应对等方面来阐述？：
+https://www.zhihu.com/question/20421639/answer/236677189
 
 实践：
 
-Python 汽车 数据分析
+Python 汽车 数据分析：https://yq.aliyun.com/articles/117913
 
-https://yq.aliyun.com/articles/117913
 如何利用Social Listening从社会化媒体中“提炼”有价值的信息？ http://www.woshipm.com/operate/650733.html
+
 舆情数据分析：汽车消费者的具体购车需求分析 https://m.sohu.com/n/506945818/?wscrid=95360_9
