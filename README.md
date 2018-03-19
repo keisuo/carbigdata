@@ -24,6 +24,9 @@ https://books.google.com/books?id=qOrEDgAAQBAJ&pg=PA265&lpg=PA265&dq=%E6%B1%BD%E
 力洋数据CEO马程 ：汽车行业数据挖掘与应用：http://news.iresearch.cn/content/2016/03/259713.shtml
 
 obd 数据可以做怎么样的数据挖掘？ ： https://www.zhihu.com/question/20535699
+
+舆情产品如何设计才能走向大众，试试从舆情识别、舆情分析、舆情预警、舆情应对等方面来阐述？：https://www.zhihu.com/question/20421639/answer/236677189
+
 实践：
 
 Python 汽车 数据分析
