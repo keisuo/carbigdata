@@ -6,7 +6,7 @@
 
 怎么通过简单地数据来评定汽车数据？：https://www.zhihu.com/question/23455236
 
-专业数据分析平台：http://www.daas-auto.com/
+专业数据分析平台：http://www.daas-auto.com/ http://www.huishu.com.cn/
 
 详解汽车行业大数据应用的九个大方向：http://www.sohu.com/a/114259068_121534
 
