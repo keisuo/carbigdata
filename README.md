@@ -32,3 +32,4 @@ obd 数据可以做怎么样的数据挖掘？ ： https://www.zhihu.com/questio
 Python 汽车 数据分析
 
 https://yq.aliyun.com/articles/117913
+如何利用Social Listening从社会化媒体中“提炼”有价值的信息？ http://www.woshipm.com/operate/650733.html
