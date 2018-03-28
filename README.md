@@ -10,6 +10,8 @@
 
 力洋数据CEO马程 ：汽车行业数据挖掘与应用：http://news.iresearch.cn/content/2016/03/259713.shtml
 
+普华永道：改变汽车行业的五大趋势:http://ftp.shujuju.cn/platform/file/2018-02-04/%E6%99%AE%E5%8D%8E%E6%B0%B8%E9%81%93%EF%BC%9A%E6%94%B9%E5%8F%98%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E7%9A%84%E4%BA%94%E5%A4%A7%E8%B6%8B%E5%8A%BF.pdf
+
 实践：
 
 实战大数据：
