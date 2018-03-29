@@ -28,4 +28,6 @@ Python 汽车 数据分析：https://yq.aliyun.com/articles/117913
 
 汽车爬虫：https://blog.csdn.net/tiweeny/article/details/79277889
 
+面向汽车评论的细粒度情感分析方法研究：http://www.xml-data.org/GDGYDXXB/html/20170302.htm
 
+观点评论:https://ai.baidu.com/tech/nlp/comment_tag
