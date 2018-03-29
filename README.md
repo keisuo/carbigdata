@@ -31,3 +31,9 @@ Python 汽车 数据分析：https://yq.aliyun.com/articles/117913
 面向汽车评论的细粒度情感分析方法研究：http://www.xml-data.org/GDGYDXXB/html/20170302.htm
 
 观点评论:https://ai.baidu.com/tech/nlp/comment_tag
+
+如何基于社交媒体，有效挖掘用户的痛点需求？-汽车篇：马自达3 Axel昂克赛拉 http://www.comratings.com/sociallistening_auto/
+
+汽车口碑分析与新闻监控:https://cn.nec.com/zh_CN/solutions/industries/automotive/004.html
+
+基于情感倾向识别的汽车评论挖掘系统构建:https://wenku.baidu.com/view/0b3184bf960590c69ec3761b.html
