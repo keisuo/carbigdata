@@ -26,4 +26,6 @@ Python 汽车 数据分析：https://yq.aliyun.com/articles/117913
 
 舆情数据分析：汽车消费者的具体购车需求分析 https://m.sohu.com/n/506945818/?wscrid=95360_9
 
+汽车爬虫：https://blog.csdn.net/tiweeny/article/details/79277889
+
 
